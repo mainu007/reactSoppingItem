@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactSoppingItem/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reactSoppingItem/static/js/main.8da732d8.chunk.js",
+    "main.js.map": "/reactSoppingItem/static/js/main.8da732d8.chunk.js.map",
+    "runtime-main.js": "/reactSoppingItem/static/js/runtime-main.297cc2b4.js",
+    "runtime-main.js.map": "/reactSoppingItem/static/js/runtime-main.297cc2b4.js.map",
+    "static/css/2.74189dbb.chunk.css": "/reactSoppingItem/static/css/2.74189dbb.chunk.css",
+    "static/js/2.55e720fa.chunk.js": "/reactSoppingItem/static/js/2.55e720fa.chunk.js",
+    "static/js/2.55e720fa.chunk.js.map": "/reactSoppingItem/static/js/2.55e720fa.chunk.js.map",
+    "index.html": "/reactSoppingItem/index.html",
+    "precache-manifest.3c486ea3f7a90613bebcf3a6ec6617eb.js": "/reactSoppingItem/precache-manifest.3c486ea3f7a90613bebcf3a6ec6617eb.js",
+    "service-worker.js": "/reactSoppingItem/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/reactSoppingItem/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reactSoppingItem/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.55e720fa.chunk.js.LICENSE.txt": "/reactSoppingItem/static/js/2.55e720fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.297cc2b4.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.55e720fa.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8da732d8.chunk.js"
+  ]
+}
